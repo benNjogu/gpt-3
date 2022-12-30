@@ -1,3 +1,11 @@
+import {
+  Header,
+  Blog,
+  Features,
+  Possibility,
+  WhatGPT3,
+  Footer,
+} from "./containers";
 import "./App.css";
 
 function App() {
